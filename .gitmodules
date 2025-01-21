@@ -5,3 +5,6 @@
 [submodule "geodl"]
 	path = geodl
 	url = https://github.com/maxwell-geospatial/geodl
+[submodule "micer"]
+	path = micer
+	url = https://github.com/maxwell-geospatial/micer
