@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "geodl"]
-	path = geodl
-	url = https://github.com/maxwell-geospatial/geodl
 [submodule "micer"]
 	path = micer
 	url = https://github.com/maxwell-geospatial/micer
